@@ -1,1 +1,1 @@
-03 git dir
+03 git direct
